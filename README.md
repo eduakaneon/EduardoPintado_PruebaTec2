@@ -1,7 +1,5 @@
 # EduardoPintado_PruebaTec2
-Aquí tienes un ejemplo de cómo podrías estructurar el archivo README.md para tu proyecto, incluyendo supuestos, descripción del funcionamiento y la parte pendiente de filtrar por estado de atención:
 
----
 
 # GestionDeTurnos
 
@@ -53,6 +51,6 @@ La funcionalidad de filtrar turnos por estado de atención aún no ha sido imple
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes ideas para mejorar el proyecto, no dudes en abrir un issue o enviar un pull request.
 
----
 
-Este README proporciona una descripción general del proyecto, incluyendo supuestos, funcionamiento, funcionalidades implementadas y pendientes, así como detalles sobre la configuración del proyecto y las tecnologías utilizadas. Puedes personalizarlo según las necesidades específicas de tu proyecto.
+
+
