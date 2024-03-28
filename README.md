@@ -30,7 +30,7 @@ El proyecto consta de las siguientes partes:
 
 ## Funcionalidades Pendientes
 
-La funcionalidad de filtrar turnos por estado de atención aún no ha sido implementada. Esta característica permitirá a los usuarios filtrar los turnos según su estado de atención ("En Espera" o "Ya Atendidos").
+La funcionalidad de filtrar turnos por estado de atención aún no ha sido implementada. Esta característica permitirá a los usuarios filtrar los turnos según su estado de atención ("En Espera" o "Ya Atendidos"). Se ha tratado de resolver de diferentes maneras como se podrá observar en el codigo comentado, pero no se ha llegado a una solución definitiva.
 
 ## Configuración del Proyecto
 
@@ -47,9 +47,7 @@ La funcionalidad de filtrar turnos por estado de atención aún no ha sido imple
 - HTML
 - CSS
 
-## Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras algún problema o tienes ideas para mejorar el proyecto, no dudes en abrir un issue o enviar un pull request.
 
 
 
